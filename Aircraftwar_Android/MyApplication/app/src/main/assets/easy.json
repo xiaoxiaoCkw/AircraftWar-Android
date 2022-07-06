@@ -1,0 +1,11 @@
+{
+  "players":[
+    {"username": "hhh",
+    "credits": 100,
+    "record": {
+      "score": 0,
+      "time": "2022-05-30 6:38"
+    }
+  }
+  ]
+}
